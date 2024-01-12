@@ -1,0 +1,14 @@
+C:\Users\JulioNVMe\source\repos\WorkerEnumExercise\bin\Debug\net6.0\WorkerEnumExercise.exe
+C:\Users\JulioNVMe\source\repos\WorkerEnumExercise\bin\Debug\net6.0\WorkerEnumExercise.deps.json
+C:\Users\JulioNVMe\source\repos\WorkerEnumExercise\bin\Debug\net6.0\WorkerEnumExercise.runtimeconfig.json
+C:\Users\JulioNVMe\source\repos\WorkerEnumExercise\bin\Debug\net6.0\WorkerEnumExercise.dll
+C:\Users\JulioNVMe\source\repos\WorkerEnumExercise\bin\Debug\net6.0\WorkerEnumExercise.pdb
+C:\Users\JulioNVMe\source\repos\WorkerEnumExercise\obj\Debug\net6.0\WorkerEnumExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JulioNVMe\source\repos\WorkerEnumExercise\obj\Debug\net6.0\WorkerEnumExercise.AssemblyInfoInputs.cache
+C:\Users\JulioNVMe\source\repos\WorkerEnumExercise\obj\Debug\net6.0\WorkerEnumExercise.AssemblyInfo.cs
+C:\Users\JulioNVMe\source\repos\WorkerEnumExercise\obj\Debug\net6.0\WorkerEnumExercise.csproj.CoreCompileInputs.cache
+C:\Users\JulioNVMe\source\repos\WorkerEnumExercise\obj\Debug\net6.0\WorkerEnumExercise.dll
+C:\Users\JulioNVMe\source\repos\WorkerEnumExercise\obj\Debug\net6.0\refint\WorkerEnumExercise.dll
+C:\Users\JulioNVMe\source\repos\WorkerEnumExercise\obj\Debug\net6.0\WorkerEnumExercise.pdb
+C:\Users\JulioNVMe\source\repos\WorkerEnumExercise\obj\Debug\net6.0\WorkerEnumExercise.genruntimeconfig.cache
+C:\Users\JulioNVMe\source\repos\WorkerEnumExercise\obj\Debug\net6.0\ref\WorkerEnumExercise.dll
